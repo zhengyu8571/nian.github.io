@@ -2,6 +2,5 @@
 main:
   - title: "Blog Posts"
     url: /year-archive/
-    - title: "Blog"
-    url: /cv/
+   
     
